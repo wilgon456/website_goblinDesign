@@ -31,7 +31,7 @@ cd website_goblinDesign
 python3 -m http.server 8000
 ```
 
-**http://localhost:8000**을 엽니다. 빌드는 필요 없습니다. 글꼴·아이콘·ScrollReveal은 외부 서비스에서 불러옵니다.
+[http://localhost:8000](http://localhost:8000)을 엽니다. 빌드는 필요 없습니다. 글꼴·아이콘·ScrollReveal은 외부 서비스에서 불러옵니다.
 
 ## 수정할 곳
 
